@@ -25,7 +25,8 @@ The Age in Seconds Calculator App is an Android application developed as part of
 ## 📷 Screenshots
 ![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/40408092-c8bd-4a99-af21-fb45fc628560)
 
-![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/167a37de-b9c9-4dcd-a194-ddd7db11a7ce)
+![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/dd4c01a5-4c52-4db1-a0b7-3591e2e8cd89)
+
 
 
 
