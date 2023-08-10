@@ -1,6 +1,6 @@
 # 🕒 Age in Seconds Calculator App
 
-The Age in Seconds Calculator App is an Android application developed as part of the [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on Udemy. Being a slightly more experienced developer, instead of either skipping this project, I decided to use it to experiment with Jetpack Compose. This application allows users to calculate the time difference between two dates in seconds, providing features for selecting dates, calculating the seconds between them, and clearing the selection, all designed using Jetpack Compose.
+The Age in Seconds Calculator App is an Android application developed as part of the [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on Udemy. Being a slightly more experienced developer, instead of skipping this project, I decided to use it to experiment with Jetpack Compose. This application allows users to calculate the time difference between two dates in seconds, providing features for selecting dates, calculating the seconds between them, and clearing the selection, all designed using Jetpack Compose.
 
 ## ✨ Features
 
