@@ -22,6 +22,7 @@ import com.vanpra.composematerialdialogs.MaterialDialog
 import com.vanpra.composematerialdialogs.datetime.date.datepicker
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.vanpra.composematerialdialogs.rememberMaterialDialogState
+import java.time.LocalDate
 
 @Preview(showBackground = true)
 @Composable
@@ -40,7 +41,10 @@ fun AgeInSeconds(viewModel: ConversionViewModel = hiltViewModel()) {
         }
     ) {
         datepicker(
-            initialDate = pickedDate
+            initialDate = pickedDate,
+            allowedDateValidator = {
+                it <= LocalDate.now()
+            }
         ) { date ->
             viewModel.updatePickedDate(date)
         }
