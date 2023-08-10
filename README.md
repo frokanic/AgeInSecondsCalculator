@@ -1,6 +1,6 @@
 # 🕒 Age in Seconds Calculator App
 
-The Age in Seconds Calculator App is an Android application that allows users to calculate the time difference between two dates in seconds. It provides features for selecting dates, calculating the seconds between them, and clearing the selection.
+The Age in Seconds Calculator App is an Android application developed as part of the [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on Udemy. Being a slightly more experienced developer, instead of either skipping this project, I decided to use it to experiment with Jetpack Compose. This application allows users to calculate the time difference between two dates in seconds, providing features for selecting dates, calculating the seconds between them, and clearing the selection, all designed using Jetpack Compose.
 
 ## ✨ Features
 
@@ -14,16 +14,16 @@ The Age in Seconds Calculator App is an Android application that allows users to
 
 ## 🚀 Technologies and Libraries Used
 
-- 🏢 Clean Architecture
+- 🎭 [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 🌐 [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) Dependency Injection
 - 🚀 Kotlin programming language
 - 🏛️ Android Architecture Components: ViewModel, LiveData
 - ⏱️ Coroutines for asynchronous programming
 - 🎨 Material Components for Android
-- 📅 Vanpra's Material Dialogs for DateTime picker
+- 📅 [Vanpra's Material Dialogs for DateTime picker](https://github.com/vanpra/compose-material-dialogs)
 
 ## 📷 Screenshots
-![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/c731eb51-58ad-4ca0-a7a9-ba94e180a977)![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/aa3bd02b-f2aa-4019-812c-ca362f1cf0b9)
+![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/c731eb51-58ad-4ca0-a7a9-ba94e180a977) ![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/aa3bd02b-f2aa-4019-812c-ca362f1cf0b9)
 
 
 ## 📧 Contact
