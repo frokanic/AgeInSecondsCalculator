@@ -23,8 +23,7 @@ The Age in Seconds Calculator App is an Android application that allows users to
 - 📅 Vanpra's Material Dialogs for DateTime picker
 
 ## 📷 Screenshots
-![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/c731eb51-58ad-4ca0-a7a9-ba94e180a977)
-![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/aa3bd02b-f2aa-4019-812c-ca362f1cf0b9)
+![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/c731eb51-58ad-4ca0-a7a9-ba94e180a977)![image](https://github.com/frokanic/AgeInSecondsCalculator/assets/84749437/aa3bd02b-f2aa-4019-812c-ca362f1cf0b9)
 
 
 ## 📧 Contact
